@@ -6,7 +6,7 @@ const client = require("@mailchimp/mailchimp_marketing");
 
 const app = express();
 
-client.setConfig({apiKey: "ed0fd1e9f7d7b685c8bcae39f2f09f79-us11",  server: "us11"});
+client.setConfig({apiKey: "3de3bbcba5483740f8f691e13fa8c6e0-us11",  server: "us11"});
 
 app.use(express.static("public"));
 app.use(bodyParser.urlencoded({extended: true}));
@@ -23,7 +23,7 @@ app.post("/", function(req, res){
     const lastName = req.body.lname;
     const email = req.body.email;
 
-    const apiKey = "ed0fd1e9f7d7b685c8bcae39f2f09f79-us11";
+    const apiKey = "3de3bbcba5483740f8f691e13fa8c6e0-us11";
     const listID = "555e14bff0";
 
     const subscribedUser = {
@@ -45,7 +45,7 @@ app.post("/", function(req, res){
         });
     };
 
-    //run();
+    run();
 
     if(res.statusCode === 200){
 
