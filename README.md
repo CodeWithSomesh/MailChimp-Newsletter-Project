@@ -22,7 +22,7 @@ When the status code is 200, whenever the server was able to post the data to Ma
 
 
 
-## 4. Mailchimp API Dashboard
+## 4. MailChimp Audience/Contact Dashboard
 
 The record/subscriber gets added on top of the list as highlighted in the image below.
 
