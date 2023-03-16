@@ -36,10 +36,7 @@ The record/subscriber gets added on top of the list as highlighted in the image 
 And if the status is anything other than 200 then it will return "failure.html" file. There is a button which will redirect the user to the Newsletter Signup page once again, allowing them to try submitting their details again. 
 
 ![2023-03-15 (3)](https://user-images.githubusercontent.com/123357802/225306383-8d217fcf-d95f-48d2-a893-4da1afbcdcc3.png)
-
-
-#### Note:
-> Built using HTML, CSS, Bootstrap CSS, JavaScript, Node.js, Express.js and MailChimp API. 
+ 
 
 ## Website Link
 According to the course, I should use free Heroku account to host this landing page, but since now Heroku does not provide free hosting anymore, I had to find other hosting services like Render. But I tried uploading there and it failed to be deployed.)
@@ -47,3 +44,6 @@ According to the course, I should use free Heroku account to host this landing p
 ![image](https://user-images.githubusercontent.com/123357802/225561700-9f56ef2d-71f2-41db-ac83-01b3e2e2febb.png)
 
 If anyone could help me out with this problem, I would be beyond grateful!!!
+
+#### Note:
+> Built using HTML, CSS, Bootstrap CSS, JavaScript, Node.js, Express.js and MailChimp API.
