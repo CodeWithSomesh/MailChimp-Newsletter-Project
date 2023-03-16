@@ -3,8 +3,6 @@ Newsletter project using MailChimp API, Node,js and Express.js
 
 This is a project which uses the Mailchimp API to make a NEWSLETTER webapp where you just signup for the newsletter using your details like firstname ,lastname and email address.
 
-## Website Link
-(Note: According to the course, I should use free Heroku account to host this landing page, but since now Heroku does not provide free hosting anymore, I had to find other hosting services like Render. But I tried uploading there and it failed to be deployed.)
 
 ## 1. Landing page
 
@@ -42,3 +40,8 @@ And if the status is anything other than 200 then it will return "failure.html" 
 
 #### Note:
 > Built using HTML, CSS, Bootstrap CSS, JavaScript, Node.js, Express.js and MailChimp API. 
+> According to the course, I should use free Heroku account to host this landing page, but since now Heroku does not provide free hosting anymore, I had to find other hosting services like Render. But I tried uploading there and it failed to be deployed.)
+
+![image](https://user-images.githubusercontent.com/123357802/225561700-9f56ef2d-71f2-41db-ac83-01b3e2e2febb.png)
+
+If anyone could help me out with this problem, I would be beyond grateful!!!
