@@ -4,7 +4,7 @@ Newsletter project using MailChimp API, Node,js and Express.js
 This is a project which uses the Mailchimp API to make a NEWSLETTER webapp where you just signup for the newsletter using your details like firstname ,lastname and email address.
 
 ## Website Link
-(Note: I will post it here soon, my Heroku is giving me problem while signing up, hence I am unable to deploy it yet)
+(Note: According to the course, I should use free Heroku account to host this landing page, but since now Heroku does not provide free hosting anymore, I had to find other hosting services like Render. But I tried uploading there and it failed to be deployed.)
 
 ## 1. Landing page
 
