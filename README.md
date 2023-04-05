@@ -1,7 +1,7 @@
 # MailChimp-Newsletter-Project
 Newsletter project using MailChimp API, Node,js and Express.js 
 
-This is a project which uses the Mailchimp API to make a NEWSLETTER webapp where you just signup for the newsletter using your details like firstname ,lastname and email address.
+This is a project which uses the Mailchimp API to make a NEWSLETTER webapp where you just signup for the newsletter using your details like firstname, lastname and email address.
 
 
 ## 1. Landing page
